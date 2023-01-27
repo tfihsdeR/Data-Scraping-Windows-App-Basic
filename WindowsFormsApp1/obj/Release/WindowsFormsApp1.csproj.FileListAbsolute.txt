@@ -1,0 +1,15 @@
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\bin\Release\HtmlAgilityPack.dll
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\bin\Release\HtmlAgilityPack.pdb
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\bin\Release\HtmlAgilityPack.xml
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmMain.resources
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Özel\Programlama\.Net\Works\MVC\AutomationFirstProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
